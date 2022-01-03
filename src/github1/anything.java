@@ -8,7 +8,7 @@ System.out.println("abc");
 		anything a=new anything();
 		a.abcd();
 	}
-	public void def() {
-System.out.println("def");
+	public void ghh() {
+System.out.println("ghgh");
 	}
 }
