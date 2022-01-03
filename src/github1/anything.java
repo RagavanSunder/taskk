@@ -11,4 +11,10 @@ System.out.println("abc");
 	public void ghh() {
 System.out.println("ghgh");
 	}
+	public void hhh() {
+		System.out.println("hhh");
+	}
+	public void ijk() {
+System.out.println("ijk");
+	}
 }
