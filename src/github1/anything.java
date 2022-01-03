@@ -8,4 +8,7 @@ System.out.println("abc");
 		anything a=new anything();
 		a.abcd();
 	}
+	public void def() {
+System.out.println("def");
+	}
 }
